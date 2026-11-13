@@ -35,11 +35,14 @@ A full-screen dice roller for board and party games: up to 40 dice as bold colou
 
 A one-tap stacking game: drop each block, trim the overhang and climb through five worlds.<br>`Flutter` `Flame` · [Google Play](https://play.google.com/store/apps/details?id=com.jahaznova.stackline)
 
+Also mine:
+
+- **[ImageOpti](https://www.imageopti.com/)**: image tools that run entirely in the browser.
+- **[tempboxs](https://tempboxs.com/)**: a disposable email inbox with no signup.
+
 ## Built for others
 
 - **[Soft Skill Hour](https://www.softskillhour.com/)**: a membership learning platform on Next.js and Supabase.
-- **[ImageOpti](https://www.imageopti.com/)**: image tools that run entirely in the browser.
-- **[tempboxs](https://tempboxs.com/)**: a disposable email inbox with no signup.
 - **[NazSecure Financial](https://nazsecure.com/)**: a lead-generation site for a wealth and insurance firm.
 
 More at **[fb.cresstech.ae/work](https://fb.cresstech.ae/work)**.

@@ -17,7 +17,7 @@ I started as a web designer in 2008 and never stopped at the design file. Today 
 
 I run [JahazNova](https://jahaznova.com/), my design and technology studio, and build most things with AI coding agents while keeping the architecture, the review and the UX quality in my own hands.
 
-## Apps I built and own
+## Things I've shipped
 
 ### <img src="assets/icon-loadvetting.png" width="36" height="36" align="absmiddle" alt=""> LoadVetting
 
@@ -35,14 +35,11 @@ A full-screen dice roller for board and party games: up to 40 dice as bold colou
 
 A one-tap stacking game: drop each block, trim the overhang and climb through five worlds.<br>`Flutter` `Flame` · [Google Play](https://play.google.com/store/apps/details?id=com.jahaznova.stackline)
 
-Also mine:
+More:
 
-- **[ImageOpti](https://www.imageopti.com/)**: image tools that run entirely in the browser.
-- **[tempboxs](https://tempboxs.com/)**: a disposable email inbox with no signup.
-
-## Built for others
-
-- **[Soft Skill Hour](https://www.softskillhour.com/)**: a membership learning platform on Next.js and Supabase.
+- **[ImageOpti](https://www.imageopti.com/)**: my own image tools that run entirely in the browser.
+- **[tempboxs](https://tempboxs.com/)**: my own disposable email inbox, with no signup.
+- **[Soft Skill Hour](https://www.softskillhour.com/)**: a membership learning platform on Next.js and Supabase, built for a client.
 - **[NazSecure Financial](https://nazsecure.com/)**: a lead-generation site for a wealth and insurance firm.
 
 More at **[fb.cresstech.ae/work](https://fb.cresstech.ae/work)**.

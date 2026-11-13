@@ -42,7 +42,7 @@ More:
 - **[Soft Skill Hour](https://www.softskillhour.com/)**: a membership learning platform on Next.js and Supabase, built for a client.
 - **[NazSecure Financial](https://nazsecure.com/)**: a lead-generation site for a wealth and insurance firm.
 
-More at **[fb.cresstech.ae/work](https://fb.cresstech.ae/work)**.
+The full list, with screenshots, is at **[fb.cresstech.ae/work](https://fb.cresstech.ae/work)**.
 
 ## Stack
 
